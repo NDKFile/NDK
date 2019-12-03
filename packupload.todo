@@ -1,0 +1,11 @@
+执行命令： gradlew uploadArchives
+
+https://github.com/chenzhu005774/NDKFileArr/releases
+
+https://raw.githubusercontent.com
+其中：chenzhu005774，NDKFileArr，其它固定不变
+
+
+use ：  maven { url "https://raw.githubusercontent.com/chenzhu005774/NDKFileArr/master" }
+
+  compile 'com.ndklog:log_lib:1.0.0'
